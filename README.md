@@ -17,3 +17,31 @@
     git clone -b my_feature_branch https://github.com/example/repo.git
      
 `Here you can add new Text`
+
+
+# Project Title
+
+Welcome to my awesome project!
+
+## Description
+
+This project does amazing things. Here are some key features:
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+
+To use this project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
+2. Navigate to the project directory: `cd your-project`
+3. Install dependencies: `npm install`
+
+## Usage
+
+Once the installation is complete, you can run the project using the following command:
+
+```bash
+npm start
